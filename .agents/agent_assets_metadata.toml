@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "OjvAzSR8okEhL1DAKzFFc"
+uri = "file://duoshield_fixed.zip"
+type = "unspecified"
+title = "DuoShield — Fixed Source Code"
